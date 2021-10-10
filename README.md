@@ -2,23 +2,14 @@
     <img src="./static/logo-full.svg">
 </h1>
 
-<h2 align="center">
-</h2>
-
 <h3 align="center"> 
 	Status: finished :heavy_check_mark:
 </h3>
 
 <p align="center">
-<a href="https://github.com/cassiocappellari/move-it/commits/master">
-	<img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/cassiocappellari/move-it">
-</a>
-    
+
 <img alt="License" src="https://img.shields.io/badge/license-MIT-brightgreen">
 
-<a href="https://github.com/cassiocappellari/move-it/stargazers">
-	<img alt="Stargazers" src="https://img.shields.io/github/stars/cassiocappellari/move-it?style=social">
-</a>
 </p>
 
 ## 📋 Index
