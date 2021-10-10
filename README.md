@@ -2,6 +2,10 @@
     <img src="./static/logo-full.svg">
 </h1>
 
+<h2 align="center">
+    <img src="./static/move-it-example.gif">
+</h2>
+
 <h3 align="center"> 
 	Status: finished :heavy_check_mark:
 </h3>
@@ -22,7 +26,7 @@
 
 ## ⏱ About
 
-**Move.it** it's a web application that allows users to use the Pomodoro Technique in order to help them to focus on their own activities. Which means that, at the end of every 25 minutes cycle, the user receives a challenge related to exercise, rest or stretch before another cycle begins.
+**Move.it** is a web application that allows users to use the Pomodoro Technique in order to help them to focus on their own activities. Which means that, at the end of every 25 minutes cycle, the user receives a challenge related to exercise, rest or stretch before another cycle begins.
 
 ## 🤖 Technologies
 
