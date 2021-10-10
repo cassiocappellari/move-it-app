@@ -1,6 +1,6 @@
 export default {
 	head: {
-		title: 'movue-it-nuxt',
+		title: 'move-it',
 		htmlAttrs: {
 			lang: 'en',
 		},

@@ -60,7 +60,7 @@ export default Vue.extend<unknown, any, unknown, ChallengeType>({
 			this.resetChallenges();
 			this.completeChallenge(this.amount);
 
-			this.$cookiz.set('movueit', {
+			this.$cookiz.set('moveit', {
 				level: this.level,
 				xp: this.xp,
 				completedChallenges: this.completedChallenges,

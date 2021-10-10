@@ -52,7 +52,7 @@ interface Head {
 export default Vue.extend({
 	head (): Head {
 		return {
-			title: 'Home | movue.it',
+			title: 'move.it',
 		};
 	},
 	components: {
