@@ -1,6 +1,3 @@
-// arquivo responsável por armazenamento dos dados utilizados na aplicação
-// type é a referências para as imagens da pasta icons
-
 export default [
 	{
 		type: 'body',

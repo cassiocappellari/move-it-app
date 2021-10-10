@@ -7,7 +7,6 @@
 </template>
 
 <script lang="ts">
-
 import Vue from 'vue';
 
 import { mapState, mapGetters, mapMutations } from 'vuex';

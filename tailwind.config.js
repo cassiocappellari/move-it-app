@@ -26,7 +26,6 @@ module.exports = {
 			'pages/**/*.vue',
 			'plugins/**/*.js',
 			'nuxt.config.js',
-			// TypeScript
 			'plugins/**/*.ts',
 			'nuxt.config.ts',
 		],
