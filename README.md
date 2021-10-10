@@ -57,7 +57,7 @@ $ npm install
 
 $ npm run dev
 
-# Acess the app
+# Access the app
 
 http://localhost:3000
 
